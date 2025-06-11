@@ -1,0 +1,6 @@
+{
+  "name": "AI YouTube Niche Trend Finder",
+  "description": "An application that uses AI to analyze YouTube trends based on a user-provided niche and suggests trending content ideas.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
